@@ -51,7 +51,7 @@ export default function Board() {
 
   return (
     <>
-      <h1>Pokémon memory game</h1>
+      <h1>Pokémon Memory Game</h1>
       <p>Don't pick the same Pokémon twice! </p>
       <p>Features the orginal 151 Pokémon from Generation 1.</p>
       <h2>Score: {currentScore}</h2>
